@@ -1,4 +1,9 @@
 #!/bin/bash
+
+#
+# https://github.com/Massl123/check_apache_ssl_certs
+#
+
 set -uo pipefail
 
 certWarnings=()
